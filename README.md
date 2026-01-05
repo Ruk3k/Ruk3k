@@ -5,7 +5,7 @@ EE Student @ **Science Tokyo** | Semiconductor Devices & Web Engineer
 ---
 
 ### ⚡️ About Me
-- ⚡ **Name**: 飯塚思温 / Shion IITSUKA
+- 🔎 **Name**: 飯塚思温 / Shion IITSUKA
 - 🎓 **University**: Institute of Science Tokyo, Department of Electrical and Electronic Engineering.
 - 🔬 **Research**: Planning to specialize in **Semiconductor Engineering and Hardware Design** in graduate school.
 - 💻 **Dev**: Interested in **HDL (Verilog)**, **Digital Signal Processing (DSP)**, and **Web Development (Astro, React)**.
