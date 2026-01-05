@@ -5,10 +5,11 @@ EE Student @ **Science Tokyo** | Semiconductor Devices & Web Engineer
 ---
 
 ### ⚡️ About Me
+- ⚡ **Name**: 飯塚思温 / Shion IITSUKA
 - 🎓 **University**: Institute of Science Tokyo, Department of Electrical and Electronic Engineering.
-- 🔬 **Research**: Planning to specialize in **Silicon Photonics** in graduate school.
-- 💻 **Dev**: Interested in Astro, React, and HDL (Verilog).
-- 🎸 **Hobby**: Playing the bass guitar since high school.
+- 🔬 **Research**: Planning to specialize in **Semiconductor Engineering and Hardware Design** in graduate school.
+- 💻 **Dev**: Interested in **HDL (Verilog)**, **Digital Signal Processing (DSP)**, and **Web Development (Astro, React)**.
+- 🎸 **Hobby**: Bass, Guitar, and music composition.
 
 #### 🌐 Web Development (Learning)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
