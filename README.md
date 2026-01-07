@@ -24,11 +24,6 @@ EE Student @ **Science Tokyo** | Semiconductor Devices & Web Engineer
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-F39C12?style=for-the-badge&logo=icloud&logoColor=white)
 
-### 📊 GitHub Stats
-![Ruk3k's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruk3k&show_icons=true&theme=transparent&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Ruk3k&layout=compact&theme=transparent&cache_seconds=1800)
-
 ### 🖥️ Main Machine
 - **CPU**: AMD Ryzen 7 9800X3D
 - **GPU**: NVIDIA RTX 4070 Ti Super
