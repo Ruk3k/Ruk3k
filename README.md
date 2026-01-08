@@ -37,6 +37,7 @@ EE Student @ **Science Tokyo** | Semiconductor Devices & Web Engineer
 ### 📊 My GitHub Stats
 ![](./profile-summary-card-output/vue/0-profile-details.svg)
 ![](./profile-summary-card-output/vue/1-repos-per-language.svg)
+![](./profile-summary-card-output/vue/3-stats-per-dag-part-of-day.svg)
 
 ### 📫 Contact
 - **Email**: [shion.iitsuka.ee@gmail.com](mailto:shion.iitsuka.ee@gmail.com)
