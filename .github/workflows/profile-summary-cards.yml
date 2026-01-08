@@ -1,0 +1,21 @@
+name: GitHub-Profile-Summary-Cards-Release
+
+on:
+  schedule: # 毎日 0時に自動実行
+    - cron: "0 0 * * *"
+  workflow_dispatch: # 手動実行も可能にする
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}

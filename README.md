@@ -34,7 +34,9 @@ EE Student @ **Science Tokyo** | Semiconductor Devices & Web Engineer
 - **RAM**: 32GB
 - **OS**: Windows 11 / Ubuntu Pro (Serverized Laptop)
 
-[![Ruk3k's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruk3k&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 My GitHub Stats
+![](./profile-summary-card-output/classic/0-profile-details.svg)
+![](./profile-summary-card-output/classic/1-repos-per-language.svg)
 
 ### 📫 Contact
 - **Email**: [shion.iitsuka.ee@gmail.com](mailto:shion.iitsuka.ee@gmail.com)
