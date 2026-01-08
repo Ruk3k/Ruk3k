@@ -35,8 +35,8 @@ EE Student @ **Science Tokyo** | Semiconductor Devices & Web Engineer
 - **OS**: Windows 11 / Ubuntu Pro (Serverized Laptop)
 
 ### 📊 My GitHub Stats
-![](./profile-summary-card-output/classic/0-profile-details.svg)
-![](./profile-summary-card-output/classic/1-repos-per-language.svg)
+![](./profile-summary-card-output/vue/0-profile-details.svg)
+![](./profile-summary-card-output/vue/1-repos-per-language.svg)
 
 ### 📫 Contact
 - **Email**: [shion.iitsuka.ee@gmail.com](mailto:shion.iitsuka.ee@gmail.com)
