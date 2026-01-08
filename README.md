@@ -32,7 +32,7 @@ EE Student @ **Science Tokyo** | Semiconductor Devices & Web Engineer
 - **CPU**: AMD Ryzen 7 9800X3D
 - **GPU**: NVIDIA RTX 4070 Ti Super
 - **RAM**: 32GB
-- **OS**: Windows 11 / Ubuntu Pro (Serverized Laptop)
+- **OS**: Windows 11
 
 ### 📊 My GitHub Stats
 [![](https://raw.githubusercontent.com/Ruk3k/Ruk3k/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -41,4 +41,3 @@ EE Student @ **Science Tokyo** | Semiconductor Devices & Web Engineer
 
 ### 📫 Contact
 - **Email**: [shion.iitsuka.ee@gmail.com](mailto:shion.iitsuka.ee@gmail.com)
-- **GitHub**: [Ruk3k](https://github.com/ruk3k)
