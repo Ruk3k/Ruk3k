@@ -19,4 +19,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          THEME: vue
+          THEME: gotham
