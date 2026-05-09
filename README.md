@@ -1,4 +1,4 @@
-# Hi there, I'm Ruk3k👋
+# Hi there, I'm Lucmir👋
 
 EE Student @ **Science Tokyo** | Semiconductor Devices & Web Engineer
 
